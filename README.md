@@ -2,7 +2,7 @@
 
 ## About me
 
-I am a French student, preparing for the competitive exams for the French engineering schools. I started programming in 2015 and during these years, I learned python, C, basic-casio, html, css, js, php, sql, processing and even brainfuck. Today, I stopped trying to master many languages, I prefer to focus on C, which allows me to do almost everything, with unbeatable performance.
+I am a French student at the Telecom Physique Strasbourg engineering school. I started programming in 2015 and during these years, I learned python, C, basic-casio, html, css, js, php, sql, processing and even brainfuck. Today, I stopped trying to master many languages, I prefer to focus on C, which allows me to do almost everything, with unbeatable performance.
 
 ![languages proportions on Mactul github](https://github-readme-stats.vercel.app/api/top-langs/?username=mactul&layout=compact&theme=dark&langs_count=6)
 
